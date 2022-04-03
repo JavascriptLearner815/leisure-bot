@@ -11,5 +11,11 @@
     "url": "leisure-bot"
   },
   "author": "Dean Alan Summer",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.12.0"
+  }
 }
