@@ -1,5 +1,7 @@
 # Leisure Bot
 
+# [Invite Leisure Bot Today](https://discord.com/api/oauth2/authorize?client_id=960322026197889076&permissions=8&scope=bot%20applications.commands)
+
 ## Why Leisure Bot?
 
 1. Leisure Bot provides leisurely access to essential commands like "ban" and "mute" with cleaner, more extensive systems that those of regular Discord.
