@@ -28,5 +28,8 @@
 
 - Leisure Bot has an online database connected to everyone else using it. You can send group chats, write a story, view each other profile's, and more!
 
+<br>
+
 [Terms of Service](https://JavascriptLearner815.github.io/leisure-bot/tos)
+
 [Privacy Policy](https://JavascriptLearner815.github.io/leisure-bot/privacy-policy)
