@@ -6,7 +6,7 @@
 
 ### 1. Easy Access to Clean & Extensive Resources
  
-- Leisure Bot provides leisurely access to essential commands like "ban" and "mute" with cleaner, more extensive systems that those of regular Discord.
+- Leisure Bot provides leisurely access to essential commands like "ban" and "mute" with cleaner, more extensive systems than those of regular Discord.
 
 ### 2. Free
 
